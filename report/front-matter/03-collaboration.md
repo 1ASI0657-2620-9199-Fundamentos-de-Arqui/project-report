@@ -1,3 +1,5 @@
+<div style="page-break-before: always;"></div>
+
 # Project Report Collaboration Insights
 
 Todas las actividades asignadas para cada entrega se encuentran documentadas en el repositorio de GitHub de la organización del equipo, accesible en: [https://github.com/Aurora-startup](https://github.com/Aurora-startup).
@@ -25,3 +27,7 @@ En esta tercera entrega se desarrolló todo el contenido correspondiente al Spri
 
 ## TB2
 En esta cuarta y última entrega se desarrolló todo el contenido correspondiente al Sprint 4, orientado a pulir los detalles finales de la plataforma y concluir el ciclo de desarrollo. Además, se elaboró la versión final de las conclusiones, la bibliografía y los anexos. A continuación, se presentan las capturas que evidencian la colaboración de los integrantes del equipo en el repositorio del informe durante el desarrollo de este último entregable.
+
+![Report TB2 Contributors](../assets/images/report-insights-tb2-contributors.png)
+
+![Report TB2 Pulse](../assets/images/report-insights-tb2-pulse.png)
